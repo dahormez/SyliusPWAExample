@@ -47,38 +47,3 @@
         }
     }
 </script>
-
-<style>
-    .category--list {
-        width: 100%;
-        padding: 10px;
-        overflow: hidden;
-        box-sizing: border-box;
-    }
-    .category--list .list--item {
-        width: 25%;
-        color: #fff;
-        padding: 0 10px;
-        text-align: left;
-        background: #2c3e50;
-        box-sizing: border-box;
-    }
-
-    .category--list .list--item a {
-        text-decoration: none;
-        color: #fff;
-    }
-    
-    .category--list .list--item.main {
-        float: left;
-        overflow: hidden;
-    }
-    
-    .category--list .list--item.sub {
-
-    }
-
-    .subcategory--list {
-        list-style: none;
-    }
-</style>
